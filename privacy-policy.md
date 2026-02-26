@@ -26,4 +26,4 @@ Busy Gateway (“we”) processes WhatsApp message metadata and delivery status 
 - Credentials are stored in local configuration and should be protected by system access controls.
 
 ## Contact
-Email: your@email.com
+Email: vibhor1102@gmail.com
